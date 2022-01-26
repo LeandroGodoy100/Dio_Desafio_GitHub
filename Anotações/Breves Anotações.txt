@@ -1,0 +1,18 @@
+Passos Para subir mudanças feita no repositório do GitHub:
+1- Criar ou abrir um repositório no GitHub;
+2- Copiar a Chave ssh ou o link do repositório;
+3- Abrir uma pasta no seu computador;
+4- Abrir o "git bash here", na pasta em questão;
+5- Fazer o comando: 
+- Git clone - Colar a chave ou o link;
+- Cd - para entrar no repositório local;
+- Git status - para verificar se esta tudo certo;
+- Git add (.) ou (-A ) - Adiciona todos os arquivos apenas local;
+- Git commit -m "Mensagem" - Para fazer o commit colocando uma mensagem coerente;
+- Git push origin main - Sobe arquivo para a nuvem;
+
+
+ 
+
+
+
