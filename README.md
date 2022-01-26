@@ -1,2 +1,3 @@
 # Dio_Desafio_GitHub
-Desafio Git/GitHub da DIO.
+Repositório do Desafio Git/GitHub da DIO.
+[Links Uteis](https://www.markdownguide.org/basic-syntax/)
